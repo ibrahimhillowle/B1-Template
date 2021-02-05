@@ -209,6 +209,26 @@ footer{
   display: block;
 }
 
+.product-text{
+  border-left: none;
+}
+
+.product-text
+
+.product-text p {
+  margin: 0;
+}
+
+.product-text
+
+h2.streep {
+border-left: 5px solid #27AE60;
+text-align: start;
+margin-bottom: 25px;
+padding: 0 0 0 8px;
+
+}
+
 /* 
   ##Device = Most of the Smartphones Mobiles (Portrait)
   ##Screen = B/w 320px to 479px
